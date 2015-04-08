@@ -1,0 +1,4 @@
+COMO UTILIZAR
+
+1. execute o executavel (dur)
+2. vá ao navegador e digite na barra de busca "127.0.0.1:8081/view/main"
